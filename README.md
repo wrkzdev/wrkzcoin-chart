@@ -1,3 +1,4 @@
+### Transferred to https://github.com/wrkzcoin/difficulty-chart
 ### wrkzcoin-chart (using chartjs)
 #### Difficulty chart overall:
 ![Difficulty chart overal](https://raw.githubusercontent.com/wrkzdev/wrkzcoin-chart/master/graph.png)
